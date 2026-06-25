@@ -5,7 +5,8 @@ A local-first content calendar builder in HTML with built in voice writing analy
 
 <H2>Features</H2> 
 
-Calendar Generation
+<H2>Calendar Generation<H2/>
+  
 - Niche/Topic input — free-text field for any industry or audience
 - Platform selection — LinkedIn, Instagram, TikTok/Reels, YouTube, X (Twitter), Newsletter, Community Post
 - Month & year selector — any month from 2024–2030 (plan future months)
