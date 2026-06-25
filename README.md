@@ -80,7 +80,5 @@ A local-first content calendar builder in HTML with built in voice writing analy
 - Session persistence — full state saves to localStorage; restores on return
 - Sidebar navigation — Calendar Builder, Voice Analyzer, API Settings, Saved Calendars, How to Use
 - How to Use page — built-in reference guide covering all features with Quick Start, step-by-step walkthroughs, and Pro Tips
-
-
-Responsive layout — adapts down to mobile widths
-No build step — single self-contained HTML file, runs directly in the browser
+- Responsive layout — adapts down to mobile widths
+- No build step — single self-contained HTML file, runs directly in the browser
